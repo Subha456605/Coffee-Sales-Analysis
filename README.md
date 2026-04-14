@@ -18,16 +18,16 @@ This project presents an interactive Power BI dashboard designed to analyze coff
 - **Customer Insights:** Searchable customer ID analysis.
 - **Interactive Filters:** Slicers for Date, Shift, Beverage, and Customer.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
 - **Power Query**
 - **SQL**
 - **Excel**
 
-  ## 📈 Dashboard Preview
+  ##  Dashboard Preview
 ![Dashboard Preview](Dashboard_page-0001.jpg)
 
-## 👤 Author
+##  Author
 **Subhradip**  
 Aspiring Data Analyst 
