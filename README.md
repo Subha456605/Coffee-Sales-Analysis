@@ -28,4 +28,6 @@ This project presents an interactive Power BI dashboard designed to analyze coff
   ## 📈 Dashboard Preview
 ![Dashboard Preview](Dashboard_page-0001.jpg)
 
-
+## 👤 Author
+**Subhradip**  
+Aspiring Data Analyst 
