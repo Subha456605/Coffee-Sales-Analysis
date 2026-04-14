@@ -25,4 +25,7 @@ This project presents an interactive Power BI dashboard designed to analyze coff
 - **SQL**
 - **Excel**
 
+  ## 📈 Dashboard Preview
+![Dashboard Preview](Dashboard_page-0001.jpg)
+
 
